@@ -6,15 +6,11 @@ pinned = false
 +++
 # Ernährung der Jugend
 
-## 
-Ernährt sich die Jugend heutzutage gesund und ausgewogen?
-
+## Ernährt sich die Jugend heutzutage gesund und ausgewogen?
 
 Lautes Kassenklingeln und Stimmen, die durcheinanderreden. Viele Schülerinnen und Schüler des Gymnasiums Kirchenfeld gehen in der Migros Filiale an der Luisenstrasse am Mittag ein und aus. Vor den Regalen herrscht ein dichtes Gedränge. Ein M-Budget Poulet Sandwich hier, drei Donuts da. Die Gemüse- und Früchteabteilung so gut wie unberührt. Das Einzige, was noch Frucht in sich hat, ist das Capri Sun, welches von einem Schüler eingesteckt wird. Zurück im Gymnasium laufen wir durch die Gänge auf der Suche nach einem freien Tisch. Viele sind schon besetzt und grösstenteils voll mit Fertiggerichten und Fast Food. Gemüse, pflanzliche Eiweisse und gesunde Fette sucht man vergeblich. Wenn man seinen Abfall entsorgen will, wird man von Abfalleimern, die bis zum Rand mit Plastikverpackungen vollgestopft sind, begrüsst. Dieses Spiel wiederholt sich von Tag zu Tag und man muss sich fragen: Ernähren sich Jugendliche überhaupt gesund und ausgewogen?
 
-## 
-Die Expertise der Ernährungsberatung
-
+## Die Expertise der Ernährungsberatung
 
 Wir wollen die Meinung zu dieser Frage hören. Also gehen wir an einem regnerischen Tag in das Beau-Site Krankenhaus in der Nähe des Viktoria Platzes. Nachdem wir zuerst mit dem Tram daran vorbeigefahren sind, schreiten wir in Richtung des Klinikums und es beginnt zu stürmen. An der Rezeption empfängt uns Frau Negri und wir folgen ihr in den langen, wirren, mit grossen Fenstern ausgekleideten Gängen. Als wir das Gebäude des Sitzungszimmers betreten, riecht es nach frisch gekochtem Mittagessen. Denn ein Stockwerk unter dem Sprechzimmer ist die Küche, welche das Essen für Patienten und Gäste zubereitet. Im Sprechzimmer, welches dazu noch die Küche der Mitarbeiter und Mitarbeiterinnen Frau Negris ist, führen wir unser Interview. 
 Wir möchten möglichst viel über dieses komplizierte und in sich komplexe Thema in Erfahrung bringen und so fragen wir, ob sie der Meinung sei, dass sich Jugendliche heutzutage nicht ausgewogen ernähren. Die Antwort auf diese Frage finden wir zugegebenermassen schockierend. Frau Negri meint, dass nicht nur die Problematik von übermässigem Fastfood Konsum heutzutage zum Vorschein tritt, sondern auch scheinbar gesunde Ernährungstrends. Nicht alle Probleme liegen ihrer Meinung nach im Verzehr von Fastfood, sondern auch in den gesunden Ernährungsweisen, welche Trends auf z.B. TikTok zeigen. Sie verweist auf ein Kurzvideo, welches sie selbst auf der sozialen Medien Plattform TikTok gesehen hat. Eine sogenannte Gurkendiät wird als «gesund», und «reinigend» beschrieben. Doch was dabei das Problem ist, zeigt sie uns mithilfe einer Abbildung von der Schweizer Gesellschaft für Ernährung «SGE». 
@@ -25,7 +21,6 @@ Auf der Grafik ist ein Teller abgebildet, welcher zu weniger als 50% mit Gemüse
 1 Portion entspricht 2 dl Milch oder 150–200g Joghurt, Quark, Hüttenkäse oder 30 g Käse.
 
 > **«Meiner Meinung nach, ist nicht nur der übermässige Konsum von Fastfood das Problem, sondern auch scheinbar gesunde Ernährungstrends in den sozialen Medien»**
->
 
 Claudio Negri 
 Ernährungsberaterin Beau-Site 
@@ -61,8 +56,6 @@ Nach dem Gespräch haben wir recherchiert, um noch mehr über diesen «MNI» her
 
 Claudio Dini
 
-
  Im Vergleich zu der Migros hat die Mensa demnach nicht nur ausgewogene Menüs zu bieten, welche auch satt machen, sondern auch solche die der Umwelt zugutekommen. Weiter sind die Gerichte der Mensa so gut wie unberührt von der industriellen Nährstoffverdünnung. Lediglich der Preis wäre ein Gegenargument. Schlussendlich muss man sich jedoch die Frage stellen: Welcher Preis hat eine Ernährung, welche zu einem gesunden Leben führt?
-
 
 Wir persönlich sind bereit diesen Preis zu bezahlen, da uns unsere Gesundheit am Herzen liegt. Doch nicht nur unsere Gesundheit ist uns wichtig, sondern auch die von unseren Mitschülern und Mitschülerinnen. Deshalb auch unsere Bitte an diese: Überlegt doch zweimal, ob ihr in die Migros geht und euch ein M-Budget Poulet Sandwich kauft oder doch ein gesundes, ausgewogenes und umweltfreundliches Menü aus der Mensa kauft.
