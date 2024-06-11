@@ -10,4 +10,4 @@ description = ""
 
 mathys.luc-olivier@bluewin.ch
 
-Student in Gym Kirchenfeld Bern
+Schüler in Gym Kirchenfeld Bern
